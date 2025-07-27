@@ -12,4 +12,4 @@ Smells Incluidos:
 - ✅ Comentarios Innecesarios
 
 
-Cada archivo contiene el código con comentarios explicando por qué es un smell y cómo podría refactorizarse.
+Cada archivo contiene el código con comentarios explicando por qué es un smell.
