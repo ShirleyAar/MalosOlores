@@ -12,9 +12,9 @@ public class CommentsSmellExample {
     // Comentarios innecesarios que explican cosas obvias o malas prácticas.
 
 public class Calculator {
-    // Esta función suma dos números (← innecesario, el nombre lo dice)
+    // Esta función suma dos números 
     public int add(int a, int b) {
-        return a + b; // aquí se hace la suma (← innecesario también)
+        return a + b; // aquí se hace la suma 
     }
 }
 }
