@@ -17,19 +17,18 @@ public class Client {
     // Si agregamos validación a 'address', debemos modificar todas las clases que lo usan
 
         public String getCountry() {
-            throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-        }
+            throw new UnsupportedOperationException("Not supported yet."); 
 
         public String getCity() {
-            throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+            throw new UnsupportedOperationException("Not supported yet."); 
         }
 
         public String getAddress() {
-            throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+            throw new UnsupportedOperationException("Not supported yet."); 
         }
 
         public String getName() {
-            throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+            throw new UnsupportedOperationException("Not supported yet."); 
         }
     }
 
